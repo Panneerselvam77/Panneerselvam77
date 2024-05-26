@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panneer Selvam</h1>
-<h3 align="center">A passionate full-stack web developer with proficiency in front-end and server-side languages. I am looking for a full-stack web developer position at a fast-paced tech company.</h3>
+<h3 align="center">A passionate full-stack web developer with proficiency in front-end and server-side languages. I am looking for a Front end developer position at a fast-paced tech company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panneerselvam77&label=Profile%20views&color=0e75b6&style=flat" alt="panneerselvam77" /> </p>
 
